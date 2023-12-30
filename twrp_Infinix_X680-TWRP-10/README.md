@@ -5,12 +5,12 @@
 | Device                  | Infinix Hot 9 Play                                 
 | ----------------------- | :---------------------------------------------------------- |
 | Codename                | X680                                                        |
-| Chipset                 | MediaTek Helio A25 (12 nm)                                  |
-| CPU                     | Octa-core, up to 1.8 GHz                                    |
-| GPU                     | PowerVR GE8320                                              |
-| Memory                  | 4GB / 6GB RAM                                               |
+| Chipset                 | MediaTek Helio A22(12nm)                            |
+| CPU                     | Quad-core, up to 2.2 GHz                                    |
+| GPU                     | PowerVR Rogue GE8300                                              |
+| Memory                  | 2GB                                               |
 | Shipped Android version | 10                                                          |
-| Storage                 | 32 / 64 GB (eMMC 5.1)                                       |
+| Storage                 | 32
 | MicroSD                 | up to 256 GB (dedicated slot)                               |
 
 
